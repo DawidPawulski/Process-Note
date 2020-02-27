@@ -1,4 +1,4 @@
-# ProcessNote
+# Process Note
 
 WPF application to list all running processes with the option to add comments to them.
 
